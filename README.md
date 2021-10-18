@@ -1,2 +1,2 @@
-# Write-a-Data-Science-Blog-Post---Udacity-Project
-For this project, you will be creating a blog post and Github repository to begin building a data science portfolio.
+# How Did Netflix Grow Its Catalog?
+Here we will try to understand Netflix's growth through a data-driven approach based on the "Netflix Movies and TV Shows" dataset from Kaggle.
