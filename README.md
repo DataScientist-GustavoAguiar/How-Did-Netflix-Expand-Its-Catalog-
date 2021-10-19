@@ -2,50 +2,23 @@
 
 Here we will try to understand Netflix's growth through a data-driven approach based on the "Netflix Movies and TV Shows" dataset from Kaggle.
 
-Link to Medium Article: https://medium.com/@gustavoaguiar_21700/how-did-netflix-grow-its-catalog-find-out-3793ad4b5157
-
 <p align="left">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/How-Did-Netflix-Grow-Its-Catalog-?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DataScientist-GustavoAguiar/How-Did-Netflix-Grow-Its-Catalog-">
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
-
   <a href="https://rocketseat.com.br">
-    <img alt="made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+    <img alt="made by Gustavo Aguiar" src="https://img.shields.io/badge/made%20by-Gustavo-%237519C1">
   </a>
   
-  <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+  <a href="https://medium.com/@gustavoaguiar_21700/how-did-netflix-grow-its-catalog-find-out-3793ad4b5157">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Medium-%237159c1?style=flat&logo=ghost">
     </a> 
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Introduction](##Introduction)
-   * [Programming language and libraries](##Programming language and libraries)
-   * [Author](##Author)
-   * [Contributions](##Contributions)
-   * [Copyright and license](##Copyright and license)
-<!--te-->
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-##Introduction
+## Introduction
 Netflix generates more than $25 billion in income each year. It features an extensive range of movies and TV shows, many high-quality original programs, and an easy-to-use interface. Netflix continues to work on growing its catalog. You’ve probably had a conversation with a friend about a movie or a TV show, and one of you added
 
 “And to top it all off, it’s available on Netflix!”
@@ -70,7 +43,7 @@ To answer these questions, I took data from the Netflix Movies and TV Shows data
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-##Programming language and libraries
+## Programming language and libraries
 
 This project was created with:
 Python 3.6
@@ -79,7 +52,7 @@ This involves the use of common Python libraries: pandas, numpy, matplotlib, sea
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-##Author
+## Author
 
 Gustavo Aguiar 👋🏽 Get in Touch!
 
@@ -90,10 +63,8 @@ Production Engineer | Master's Student in Production Engineering and Computation
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-##Contributions
+## Contributions
 Please send me feedback to help make this code better.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-##Copyright and license
+## License
 This project is under the license [MIT](./LICENSE).
