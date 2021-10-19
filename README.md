@@ -52,6 +52,12 @@ This involves the use of common Python libraries: pandas, numpy, matplotlib, sea
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## Project visualizations
+
+![Figure 1: ](visuals/Figure 1.png)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Conclusions
 
 In this article, we took a look at how did Netflix expand its catalogue according to Kaggle’s dataset Netflix Movies and TV Shows.
