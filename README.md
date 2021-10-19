@@ -52,6 +52,22 @@ This involves the use of common Python libraries: pandas, numpy, matplotlib, sea
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## Conclusions
+
+In this article, we took a look at how did Netflix expand its catalogue according to Kaggle’s dataset Netflix Movies and TV Shows.
+
+* We gathered the data and test a simple idea, which showed that the Netflix is adding more content to its collection than ever before.
+
+* We examined which countries produced more of the titles added to Netflix’s catalog. This showed that the United States is Netflix’s primary content source, with India and the United Kingdom coming in second and third, and that these three nations account for more than half of the content available on Netflix.
+
+* Then we looked at how different regions were related to the type of content that was added. The visualization revealed a significant difference in the ratio of movies and TV shows added by Netflix that is produced by each region.
+
+* We looked at the number of titles added by Netflix per region and year. We discovered that Netflix increases the amount of content added by a specific region at different periods.
+
+* Finally, we looked at the targeted audience. We found that many countries produce more content for adults, while some others focus more on the teen audience.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Author
 
 Gustavo Aguiar 👋🏽 Get in Touch!
