@@ -27,7 +27,7 @@ Actually, many prefer Netflix to alternative streaming services and television p
 
 But why is that? What do the newly added movies and TV series data imply? Are there any patterns or trends? In this blog, we will use the CRISP-DM method to understand better the titles that Netflix is adding and its efforts to maintain its leadership in the streaming sector.
 
-Based on our primary business question, “How Did Netflix Become the Best?” I’ve defined five questions that can help us understand and answer our main question.
+Based on our primary business question, “How Did Netflix Grow Its Catalog?” I’ve defined five questions that can help us understand and answer our main question.
 
 * “Is Netflix adding more content than ever before to its catalog?”
 
