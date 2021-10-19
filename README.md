@@ -36,22 +36,16 @@ Link to Medium Article: https://medium.com/@gustavoaguiar_21700/how-did-netflix-
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Introduction](##Introduction)
+   * [Programming language and libraries](##Programming language and libraries)
+   * [Author](##Author)
+   * [Contributions](##Contributions)
+   * [Copyright and license](##Copyright and license)
 <!--te-->
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Introduction
+##Introduction
 Netflix generates more than $25 billion in income each year. It features an extensive range of movies and TV shows, many high-quality original programs, and an easy-to-use interface. Netflix continues to work on growing its catalog. You’ve probably had a conversation with a friend about a movie or a TV show, and one of you added
 
 “And to top it all off, it’s available on Netflix!”
@@ -76,19 +70,16 @@ To answer these questions, I took data from the Netflix Movies and TV Shows data
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Programming language & libraries
+##Programming language and libraries
 
 This project was created with:
 Python 3.6
-ipython >= 7
 
-This involves the use of common Python libraries: import numpy as np import pandas as pd import matplotlib.pyplot as plt import seaborn as sns import plotly.express as px %matplotlib inline
-
-Libraries used: pandas, numpy, matplotlib, seaborn, flake8, pycountry.
+This involves the use of common Python libraries: pandas, numpy, matplotlib, seaborn, flake8, pycountry, and ipython.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Autor
+##Author
 
 Gustavo Aguiar 👋🏽 Get in Touch!
 
@@ -99,10 +90,10 @@ Production Engineer | Master's Student in Production Engineering and Computation
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Contributions
+##Contributions
 Please send me feedback to help make this code better.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Copyright and license
+##Copyright and license
 This project is under the license [MIT](./LICENSE).
