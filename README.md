@@ -82,5 +82,8 @@ Production Engineer | Master's Student in Production Engineering and Computation
 ## Contributions
 Please send me feedback to help make this code better.
 
+## Acknowledgement
+I would like to earnestly acknowledge the sincere efforts and valuable time given by Udacity professionals and respected orientators Josh Bernhard and Robert Chang. Their valuable guidance and feedback has helped me in completing this project.
+
 ## License
 This project is under the license [MIT](./LICENSE).
