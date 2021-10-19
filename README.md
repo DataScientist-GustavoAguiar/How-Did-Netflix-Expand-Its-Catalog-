@@ -54,7 +54,25 @@ This involves the use of common Python libraries: pandas, numpy, matplotlib, sea
 
 ## Project visualizations
 
-![Figure 1: ](visuals/Figure 1.png)
+Figure 1: Quantity of titles added by Netflix per year.
+
+<img src="visuals/Figure_1.png" width=50%>
+
+Figure 2: Quantity of titles added by Netflix per country (Top 15).
+
+<img src="visuals/Figure_2.png" width=50%>
+
+Figure 3: Quantity of titles added by Netflix per type and per region.
+
+<img src="visuals/Figure_3.png" width=50%>
+
+Figure 4: Quantity of titles added by Netflix per region and per year.
+
+<img src="visuals/Figure_4.png" width=50%>
+
+Figure 5: Heatmap of the correlation between countries and content audience.
+
+<img src="visuals/Figure_5.png" width=50%>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
