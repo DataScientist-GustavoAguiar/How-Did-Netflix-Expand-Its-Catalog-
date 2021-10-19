@@ -31,6 +31,8 @@ Link to Medium Article: https://medium.com/@gustavoaguiar_21700/how-did-netflix-
     </a> 
 </p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -47,18 +49,16 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## Introduction
-Netflix generates more than $25 billion in income each year. It features an extensive range of movies and TV shows, many high-quality original programs, and an easy-to-use interface. Netflix continues to work on growing its catalog.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-You’ve probably had a conversation with a friend about a movie or a TV show, and one of you added
+## Introduction
+Netflix generates more than $25 billion in income each year. It features an extensive range of movies and TV shows, many high-quality original programs, and an easy-to-use interface. Netflix continues to work on growing its catalog. You’ve probably had a conversation with a friend about a movie or a TV show, and one of you added
 
 “And to top it all off, it’s available on Netflix!”
 
-Actually, many prefer Netflix to alternative streaming services and television programs.
+Actually, many prefer Netflix to alternative streaming services and television programs. 
 
-But why is that? What do the newly added movies and TV series data imply? Are there any patterns or trends?
-
-In this blog, we will use the CRISP-DM method to understand better the titles that Netflix is adding and its efforts to maintain its leadership in the streaming sector.
+But why is that? What do the newly added movies and TV series data imply? Are there any patterns or trends? In this blog, we will use the CRISP-DM method to understand better the titles that Netflix is adding and its efforts to maintain its leadership in the streaming sector.
 
 Based on our primary business question, “How Did Netflix Become the Best?” I’ve defined five questions that can help us understand and answer our main question.
 
@@ -74,6 +74,8 @@ Based on our primary business question, “How Did Netflix Become the Best?” I
 
 To answer these questions, I took data from the Netflix Movies and TV Shows dataset from Kaggle. The dataset includes 8807 titles.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Programming language & libraries
 
 This project was created with:
@@ -84,6 +86,8 @@ This involves the use of common Python libraries: import numpy as np import pand
 
 Libraries used: pandas, numpy, matplotlib, seaborn, flake8, pycountry.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Autor
 
 Gustavo Aguiar 👋🏽 Get in Touch!
@@ -93,8 +97,12 @@ Production Engineer | Master's Student in Production Engineering and Computation
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjmaguiar/?locale=en_US)](https://www.linkedin.com/in/gjmaguiar/?locale=en_US) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavoaguiar@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoaguiar@id.uff.br)](mailto:gustavoaguiar@id.uff.br)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Contributions
 Please send me feedback to help make this code better.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Copyright and license
 This project is under the license [MIT](./LICENSE).
