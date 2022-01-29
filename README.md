@@ -104,7 +104,7 @@ Data Scientist | Master's Student in Production Engineering and Computational Sy
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Contributions
-Please send me feedback to help make this code better.
+Please send me feedback to help.
 
 ## Acknowledgement
 I want to express my gratitude to Josh Bernhard, Robert Chang and the other Udacity reviewers for their genuine efforts and time. Their invaluable advice and feedback immensely helped me in completing this project.
